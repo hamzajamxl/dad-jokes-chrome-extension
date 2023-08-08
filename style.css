@@ -1,0 +1,16 @@
+body {
+    width: 280px;
+    height: 280px;
+    background-color: #01BCDF;
+    display: flex;
+    justify-content: center;
+    border: 1px solid white;
+    padding: 1px;
+}
+
+p {
+    display: inner-flex;
+    margin: auto 18px;
+    font-size: 20px;
+    color: white;
+}
